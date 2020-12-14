@@ -29,5 +29,3 @@ func Resdata() int {
 func Parmdata(name string, age int) {
 	fmt.Printf("name:%v, age:%v \n", name, age)
 }
-
-// 匿名函数
